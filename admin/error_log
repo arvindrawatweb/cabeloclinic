@@ -1,0 +1,78 @@
+[10-Mar-2022 15:43:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt.php on line 130
+[10-Mar-2022 15:43:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt.php on line 130
+[10-Mar-2022 15:48:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt.php on line 130
+[10-Mar-2022 10:25:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rockfashionco/discoverdrinks.in/cabelo/admin/config/config.php on line 2
+[10-Mar-2022 17:27:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt.php on line 130
+[10-Mar-2022 17:29:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_srvc.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_srvc.php on line 130
+[10-Mar-2022 17:29:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_srvc.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_srvc.php on line 130
+[15-Mar-2022 12:31:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt_enq.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt_enq.php on line 135
+[15-Mar-2022 17:20:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt_enq.php:135
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt_enq.php on line 135
+[15-Mar-2022 17:24:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt_enq.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt_enq.php on line 134
+[19-Mar-2022 11:19:32 Asia/Kolkata] PHP Warning:  move_uploaded_file(gallery_video_image/vd1.jpg): failed to open stream: No such file or directory in /home/rockfashionco/discoverdrinks.in/cabelo/admin/ad_vd_glry.php on line 100
+[19-Mar-2022 11:19:32 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpErMmsV' to 'gallery_video_image/vd1.jpg' in /home/rockfashionco/discoverdrinks.in/cabelo/admin/ad_vd_glry.php on line 100
+[23-Mar-2022 11:13:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt.php:130
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_prdt.php on line 130
+[23-Mar-2022 06:32:46 UTC] PHP Warning:  include(config/conig.php): failed to open stream: No such file or directory in /home/rockfashionco/discoverdrinks.in/cabelo/admin/dlt_prdt.php on line 2
+[23-Mar-2022 06:32:46 UTC] PHP Warning:  include(config/conig.php): failed to open stream: No such file or directory in /home/rockfashionco/discoverdrinks.in/cabelo/admin/dlt_prdt.php on line 2
+[23-Mar-2022 06:32:46 UTC] PHP Warning:  include(): Failed opening 'config/conig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/rockfashionco/discoverdrinks.in/cabelo/admin/dlt_prdt.php on line 2
+[23-Mar-2022 06:32:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rockfashionco/discoverdrinks.in/cabelo/admin/dlt_prdt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/dlt_prdt.php on line 7
+[23-Mar-2022 06:33:23 UTC] PHP Warning:  include(config/conig.php): failed to open stream: No such file or directory in /home/rockfashionco/discoverdrinks.in/cabelo/admin/dlt_prdt.php on line 2
+[23-Mar-2022 06:33:23 UTC] PHP Warning:  include(config/conig.php): failed to open stream: No such file or directory in /home/rockfashionco/discoverdrinks.in/cabelo/admin/dlt_prdt.php on line 2
+[23-Mar-2022 06:33:23 UTC] PHP Warning:  include(): Failed opening 'config/conig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/rockfashionco/discoverdrinks.in/cabelo/admin/dlt_prdt.php on line 2
+[23-Mar-2022 06:33:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rockfashionco/discoverdrinks.in/cabelo/admin/dlt_prdt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/dlt_prdt.php on line 7
+[23-Mar-2022 06:33:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rockfashionco/discoverdrinks.in/cabelo/admin/config/config.php on line 2
+[24-Mar-2022 15:36:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_orddrs.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_orddrs.php on line 159
+[24-Mar-2022 15:46:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_orddrs.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_orddrs.php on line 159
+[24-Mar-2022 15:47:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_orddrs.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_orddrs.php on line 159
+[24-Mar-2022 15:47:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_orddrs.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_orddrs.php on line 159
+[24-Mar-2022 15:48:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_orddrs.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/rockfashionco/discoverdrinks.in/cabelo/admin/view_orddrs.php on line 159
