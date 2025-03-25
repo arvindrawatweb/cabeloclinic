@@ -17,8 +17,16 @@
 .product-details-wrapper .product-details-content .rating li i,
 .product-gallery aside .single-block.tag li a:hover,
 .product-gallery aside .categorie .card .card-body a:before,
-.product-gallery aside .categorie .card button[aria-expanded^="false"]:hover:after,
-.product-gallery aside .categorie .card button[aria-expanded^="true"]:hover:after,
+.product-gallery
+  aside
+  .categorie
+  .card
+  button[aria-expanded^="false"]:hover:after,
+.product-gallery
+  aside
+  .categorie
+  .card
+  button[aria-expanded^="true"]:hover:after,
 .product-gallery aside .categorie .card button:hover,
 .product-gallery aside .categorie .card .card-body a:hover,
 .list-view .product-price a.readmore:hover,
@@ -49,10 +57,10 @@ footer p.copyright a,
 .beauty-header .megamenu .col3 h6,
 .home1-slider .Modern-Slider .PrevArrow,
 .home1-slider .Modern-Slider .NextArrow,
-.color-d5, a{
-    color: #000;
+.color-d5,
+a {
+  color: #000;
 }
-
 
 .woocommerce-form-coupon-toggle .woocommerce-info,
 .woocommerce .cart_totals .checkout-button,
@@ -66,8 +74,16 @@ footer p.copyright a,
 .product-details-wrapper .add-cart-area li.qty i:hover,
 .product-gallery aside .special-offer .offer-text a,
 .product-gallery aside .special-offer .offer-text a,
-.product-gallery aside .categorie .card button[aria-expanded^="false"]:hover:after,
-.product-gallery aside .categorie .card button[aria-expanded^="true"]:hover:after,
+.product-gallery
+  aside
+  .categorie
+  .card
+  button[aria-expanded^="false"]:hover:after,
+.product-gallery
+  aside
+  .categorie
+  .card
+  button[aria-expanded^="true"]:hover:after,
 .list-view .product-price a.readmore:hover,
 .cta-section .mail-form,
 .ui-widget-content .ui-state-active,
@@ -80,8 +96,8 @@ footer p.copyright a,
 .booking-section .booking-wrapper .single-input textarea:focus,
 .home1-slider .Modern-Slider .PrevArrow,
 .home1-slider .Modern-Slider .NextArrow {
-    border-color: #AAE4EF;
-  color: #AAE4EF;
+  border-color: #aae4ef;
+  color: #aae4ef;
 }
 
 .woocommerce form.checkout_coupon button.button,
@@ -139,19 +155,19 @@ footer p.copyright a,
 .home1-slider .Modern-Slider .NextArrow:hover,
 .home1-slider .Modern-Slider .explore-btn,
 .bg-d5 {
-    background-color:#d0e1cf;
-	color:#000;
+  background-color: #d0e1cf;
+  color: #000;
 }
 
 .priceing-section.v2 .premium {
-    border-top-color: #d5275a !important;
+  border-top-color: #d5275a !important;
 }
 
 .priceing-section.v2 .premium .get-start {
-    background-color: #d5275a!important;
+  background-color: #d5275a !important;
 }
 .priceing-section.v2 .premium .get-start:hover {
-    background-color: #720f83!important;
+  background-color: #720f83 !important;
 }
 
 /*-----------------720f83 color------------------*/
@@ -171,25 +187,29 @@ footer p.copyright a,
 .transparent.sticked .menuzord-menu > li a:hover,
 .beauty-header .menuzord-menu > li a:hover,
 .color-72 {
-    color:#000000;
+  color: #000000;
 }
-
 
 .woocommerce .cart_totals .checkout-button.alt:hover,
-.woocommerce table.shop_table td.actions button.button[name="update_cart"]:hover,
+.woocommerce
+  table.shop_table
+  td.actions
+  button.button[name="update_cart"]:hover,
 .beauty-header .menuzord-menu .megamenu .owl-next:hover,
 .beauty-header .menuzord-menu .megamenu .owl-prev:hover,
-.beauty-header .menuzord-menu>li>.megamenu,
+.beauty-header .menuzord-menu > li > .megamenu,
 .beauty-header .menuzord-menu ul.dropdown,
 .beauty-header .menuzord-menu ul.dropdown li ul.dropdown {
-    border-color: #d0e1cf;
+  border-color: #d0e1cf;
 }
-
 
 .woocommerce form.checkout_coupon button.button:hover,
 .woocommerce #payment #place_order:hover,
 .woocommerce .cart_totals .checkout-button.alt:hover,
-.woocommerce table.shop_table td.actions button.button[name="update_cart"]:hover,
+.woocommerce
+  table.shop_table
+  td.actions
+  button.button[name="update_cart"]:hover,
 .contact-info-section .title::before,
 .getin-section .get-in .title::before,
 .getin-section .consultant-wrapper .title::before,
@@ -216,9 +236,8 @@ footer p.copyright a,
 .product-carousel-wrapper .divider,
 .home1-slider .Modern-Slider .explore-btn:hover,
 .bg-72 {
-    background-color: #AAE4EF;
+  background-color: #aae4ef;
 }
-
 
 /*-----------transparent background-----------*/
 .single-blog:hover .brand,
@@ -226,27 +245,21 @@ footer p.copyright a,
 .product-carousel-wrapper .owl-next:hover,
 .welcome-carousel-wrapper #carousel-text,
 .product-carousel-wrapper .single-carousel .product-hover {
-    background: rgb(52 58 64 / 69%);
+  background: rgb(52 58 64 / 69%);
 }
 
 .woocommerce table.shop_table td.product-remove a.remove,
 .single-blog .brand li.gallery {
-    background:#d0e1cf;
+  background: #d0e1cf;
 }
 
 .footer-widget .newsletter-widget input:focus {
-    border-color: rgb(170 228 239);
+  border-color: rgb(170 228 239);
 }
-
-
 
 @media (max-width: 991px) {
-    .beauty-header.sticked .menuzord .showhide em,
-    .beauty-header .menuzord .showhide em{
-        background:#aae4ef;
-    }
-    
+  .beauty-header.sticked .menuzord .showhide em,
+  .beauty-header .menuzord .showhide em {
+    background: #aae4ef;
+  }
 }
-
-
-
